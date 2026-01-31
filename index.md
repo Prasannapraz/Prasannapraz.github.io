@@ -1,6 +1,6 @@
 ---
 # Comments are fine here
 layout: home
-title: ""
+title: " "
 order: 1
 ---
