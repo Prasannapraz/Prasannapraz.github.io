@@ -5,7 +5,7 @@
 #
 # remote_theme: chrisbobbe/jekyll-theme-prologue
 # collections: [sections]
-#
+# show_posts: false
 # They activate the theme and tell Jekyll to find your homepage content
 # in /_sections. Note where "sections" starts with an underscore
 # and where it doesn't. The social settings will make links to
