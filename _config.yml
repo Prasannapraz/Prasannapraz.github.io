@@ -30,11 +30,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Prasanna
-subtitle: Visualizing Spaces,Designing Experiences
-description: >- Architect | Interior Designer | 3D Visualization Specialist
-author: Prasanna
-email: Prasannapraz98@gmail.com
+title: "Prasanna"
+subtitle: "Visualizing Spaces, Designing Experiences"
+description: "Architect | Interior Designer | 3D Visualization Specialist"
+author: "Prasanna"
+email: "Prasannapraz98@gmail.com"
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
