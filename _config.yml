@@ -38,7 +38,7 @@ email: "Prasannapraz98@gmail.com"
 avatar: "assets/images/avatar.jpg"
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "https://Prasannapraz.github.io"
+baseurl: "" 
 url: "https://Prasannapraz.github.io"
 
 # Social settings
