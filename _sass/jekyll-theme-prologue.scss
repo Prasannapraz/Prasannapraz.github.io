@@ -153,7 +153,7 @@
 
 	hr {
 		border: 0;
-		border-top: solid 1px #41484c;
+		border-top: solid 1px #41904c;
 	}
 
 	code {
@@ -245,7 +245,7 @@
 			width: 100%;
 		}
 
-		&.avatar48 {
+		&.avatar90 {
 			width: 90px;
 			height: 120px;
 			background: #f00;
@@ -517,7 +517,7 @@
 			text-align: center;
 
 			a {
-				color: #41484c;
+				color: #41904c;
 				@include vendor('transition', 'color 0.35s ease-in-out');
 
 				&:hover {
@@ -530,7 +530,7 @@
 	#logo {
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
-		min-height: 48px;
+		min-height: 90px;
 		cursor: default;
 
 		a {
@@ -587,7 +587,7 @@
 						&::before {
 							position: absolute;
 							left: 0;
-							color: #41484c;
+							color: #41904c;
 							text-align: center;
 							width: 1.25em;
 							line-height: 1.75em;
