@@ -1,11 +1,13 @@
 ---
-# Front matter dashes must only appear at the top
+# Front matter
 ---
 @import "jekyll-theme-prologue";
 
-#header {
+/* Target the intro section instead of the header sidebar */
+#intro {
     background-image: url("../images/pbanner.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+    color: #fff; /* Optional: makes your text white so it's easier to read on a dark image */
 }
