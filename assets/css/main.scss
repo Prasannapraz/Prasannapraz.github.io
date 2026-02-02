@@ -1,13 +1,11 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Front matter dashes must only appear at the top
 ---
 @import "jekyll-theme-prologue";
 
 #header {
-    background-image: url("../images/pbanner.jpg"); // Path to your image
+    background-image: url("../images/pbanner.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
 }
----
-@import "jekyll-theme-prologue";
