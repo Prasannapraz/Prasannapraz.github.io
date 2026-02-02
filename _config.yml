@@ -36,7 +36,7 @@ description: "Architect | Interior Designer | 3D Visualization Specialist"
 author: "Prasanna"
 email: "Prasannapraz98@gmail.com"
 avatar: "assets/images/avatar.jpg"
-
+header_background: "assets/images/pbanner.jpg"
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" 
 url: "https://prasannapraz.github.io"
